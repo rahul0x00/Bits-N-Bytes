@@ -25,6 +25,9 @@ This course will start from basic principles of each vulnerability and How to at
 
 ## Contributors ✨
 
+Thanks to these astonishing Hackers :
+
+
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
