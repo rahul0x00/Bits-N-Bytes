@@ -31,5 +31,5 @@ This course will start from basic principles of each vulnerability and How to at
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/rahul0x00"><img src="https://avatars2.githubusercontent.com/u/33719912?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Rahul Kumar</b></sub></a><br /><a href="#contrib-rahul0x00" title="Contrib">✅</a></td>
+    <td align="center"><a href="https://github.com/rahul0x00"><img src="https://user-images.githubusercontent.com/104289350/190708729-a30bc55e-0fe5-4bd0-a4f7-eda47765a952.jpg" width="100px;" alt=""/><br /><sub><b>Rahul Kumar</b></sub></a><br /><a href="#contrib-rahul0x00" title="Contrib">✅</a></td>
   </tr>
