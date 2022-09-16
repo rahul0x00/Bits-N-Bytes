@@ -3,7 +3,7 @@
 
 
 ## GitBook Link :- https://rahul0x00.gitbook.io/
-## GitHub Repo Link :- https://github.com/rahul0x00/BBC/
+## GitHub Repo Link :- https://github.com/rahul0x00/BugBountyClass
 
 **To Read the book go to gitbook link and if you want to Contribute then make a Pull Request in Github!.**
 
