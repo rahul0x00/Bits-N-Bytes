@@ -57,8 +57,8 @@ https://www.synopsys.com/glossary/what-is-clickjacking.html
 
 #### Credits
             
-      * [@OWASP](https://owasp.org/www-community/attacks/Clickjacking)      
-      * [@synopsis](https://www.synopsys.com/glossary/what-is-clickjacking.html)
+[@OWASP](https://owasp.org/www-community/attacks/Clickjacking)      
+[@synopsis](https://www.synopsys.com/glossary/what-is-clickjacking.html)
       
   
 
