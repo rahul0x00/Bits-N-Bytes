@@ -47,7 +47,7 @@ login?u= <br>
 * Check the Referrer When Doing Redirects
 * Disallow Offsite Redirects
 
-##### Other Resources 
+#### Other Resources 
 
 https://www.acunetix.com/blog/web-security-zone/what-are-open-redirects/
 
