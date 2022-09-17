@@ -24,5 +24,5 @@ This course will start from basic principles of each vulnerability and How to at
 
 Thanks to these astonishing Hackers :
 
-| <p><a href="https://github.com/rahul0x00"><img src="https://user-images.githubusercontent.com/104289350/190708729-a30bc55e-0fe5-4bd0-a4f7-eda47765a952.jpg" alt=""><br><strong>Rahul Kumar</strong></a><br><a href="./#contrib-rahul0x00">✅</a></p> |
+| <p><a href="https://github.com/rahul0x00"><img src="https://user-images.githubusercontent.com/104289350/190708729-a30bc55e-0fe5-4bd0-a4f7-eda47765a952.jpg" alt=""><br><strong>Rahul Kumar</strong></a><br><a href="./#contrib-rahul0x00"></a></p> |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
