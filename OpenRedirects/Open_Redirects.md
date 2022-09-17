@@ -25,25 +25,21 @@ to access before they were redirected to login page.And the previous location(or
 
 ##### Some of the URL Redirect are as :
 
-/url?q=
-
-
-login.aspx?redirect=
-
-login?redir=
-
-login?redirect-url=
+/url?q=<br>
+login.aspx?redirect=<br>
+login?redir=<br>
+login?redirect-url=<br>
 
 login?next=<br>
-login?u=
-/url?sa=t&url=
-/external-link.jspa?url=
-/proxy.php?link=
-/redir.asp?url=
-/page/pmv?url=
-/exit.aspx?url=
-/bitrix/redirect.php?event1=&event2=&event3=&goto=
-/register/crowdsupport?gotoURL=
+login?u= <br>
+/url?sa=t&url=<br>
+/external-link.jspa?url=<br>
+/proxy.php?link=<br>
+/redir.asp?url=<br>
+/page/pmv?url=<br>
+/exit.aspx?url=<br>
+/bitrix/redirect.php?event1=&event2=&event3=&goto=<br>
+/register/crowdsupport?gotoURL=<br>
 
 ### Prevention
 
