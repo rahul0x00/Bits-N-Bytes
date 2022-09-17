@@ -15,7 +15,8 @@ Tutorial about web application attacks and Fundamental principle of How the atta
 
 [If You Want To Support this Project Or Me, You Can Buy Me a Coffee](https://www.buymeacoffee.com/rahul0x00)
 
-[![Paypal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png)](https://paypal.me/rahul0x00)           [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom\_images/orange\_img.png)](https://www.buymeacoffee.com/rahul0x00)
+[![Paypal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png)](https://paypal.me/rahul0x00)<br> 
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom\_images/orange\_img.png)](https://www.buymeacoffee.com/rahul0x00)
 
 
 ## Contributors ✨
