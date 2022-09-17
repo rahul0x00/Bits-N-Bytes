@@ -82,5 +82,5 @@ As a last line of defense, you can use Content Security Policy (CSP) to reduce t
 
 
 ## Credits
-* [@PortSwigger] (https://medium.com/codelighthouse/xss-what-it-is-how-it-works-and-how-to-prevent-it-454629e3a0da)
-* [@Kyle Mistele] (https://portswigger.net/web-security/cross-site-scripting)
+* [@PortSwigger](https://medium.com/codelighthouse/xss-what-it-is-how-it-works-and-how-to-prevent-it-454629e3a0da)
+* [@Kyle Mistele](https://portswigger.net/web-security/cross-site-scripting)
