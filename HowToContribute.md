@@ -1,4 +1,4 @@
-If You want to add more vulnerabilites to this Project, then kindly use the following methods:
+If You want to add Contriubte to this Project By adding more bug types, then kindly use the following methods:
 
 * Make a PR
 * Create an Issue
