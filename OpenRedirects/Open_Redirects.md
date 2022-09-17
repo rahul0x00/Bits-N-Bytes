@@ -53,5 +53,5 @@ https://www.acunetix.com/blog/web-security-zone/what-are-open-redirects/
 
 ##### Credits
 
-[@rahul0x00](https://twitter.com/rahul0x00)
+[@rahul0x00](https://twitter.com/0xdarksaber)
    
