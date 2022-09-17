@@ -7,4 +7,4 @@
 * [Cross Site Scripting](XSS/xss.md)
 
 ## Open Redirects
-* [Open Redirects](OpenRedirects/OpenRedirects.md)
+* [Open Redirects](OpenRedirects/Open_Redirects.md)
