@@ -51,7 +51,7 @@ Because none of these defenses are perfect, defense-in-depth is a good practice,
 
 #### Other Resources
   
-https://owasp.org/www-community/attacks/Clickjacking
+https://owasp.org/www-community/attacks/Clickjacking <br>
 https://www.synopsys.com/glossary/what-is-clickjacking.html  
   
 
