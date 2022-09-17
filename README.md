@@ -1,6 +1,9 @@
 # Bug Bounty Class
 
-
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-61-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+Tutorial about web application attacks and Fundamental principle of How the attack works, Exploitation and How to defend from those attacks.
 
 ## GitBook Link :- https://rahul0x00.gitbook.io/
 ## GitHub Repo Link :- https://github.com/rahul0x00/BugBountyClass
