@@ -34,7 +34,7 @@ login?redir=
 
 login?redirect-url=
 
-login?next=
+login?next=<br>
 login?u=
 /url?sa=t&url=
 /external-link.jspa?url=
