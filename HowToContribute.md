@@ -8,7 +8,7 @@ If You want to add more vulnerabilites to this Project, then kindly use the foll
 ### Contributing through via Pull Request
 1. Fork this [project](https://github.com/rahul0x00/BugBountyClass)
 
-<img src="https://user-images.githubusercontent.com/104289350/190867286-735781c2-e1b2-4868-b909-d0b74f30c0af.png" width=80px >
+      <img src="https://user-images.githubusercontent.com/104289350/190867286-735781c2-e1b2-4868-b909-d0b74f30c0af.png" width=60px >
 ![image](https://user-images.githubusercontent.com/104289350/190866771-e07e8b45-26ef-473f-b14d-a7aade9eec85.png) 
 
 
