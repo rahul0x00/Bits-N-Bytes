@@ -26,9 +26,14 @@ to access before they were redirected to login page.And the previous location(or
 ##### Some of the URL Redirect are as :
 
 /url?q=
+
+
 login.aspx?redirect=
+
 login?redir=
+
 login?redirect-url=
+
 login?next=
 login?u=
 /url?sa=t&url=
