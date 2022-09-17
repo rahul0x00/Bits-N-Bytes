@@ -42,4 +42,4 @@ If You want to add Contriubte to this Project By adding more bug types, then kin
 
 ![image](https://user-images.githubusercontent.com/104289350/190867323-9ae06ada-b47c-4341-bdad-4a98baf74cfe.png)
 
-8. And done!
+8. And Done!
