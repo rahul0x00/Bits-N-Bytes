@@ -5,3 +5,6 @@
 ## Cross Site Scripting(XSS)
 
 * [Cross Site Scripting](XSS/xss.md)
+
+## Open Redirects
+* [Open Redirects](OpenRedirects/OpenRedirects.md)
