@@ -80,7 +80,16 @@ To prevent XSS in HTTP responses that aren't intended to contain any HTML or Jav
 ##### • Content Security Policy:
 As a last line of defense, you can use Content Security Policy (CSP) to reduce the severity of any XSS vulnerabilities that still occur.
 
+## Other Resources
+
+PortSwigger and OWASP both have excellent guides on preventing XSS attacks:
+
+* https://portswigger.net/web-security/cross-site-scripting/preventing
+* https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html
+
 
 ## Credits
 * [@PortSwigger](https://medium.com/codelighthouse/xss-what-it-is-how-it-works-and-how-to-prevent-it-454629e3a0da)
 * [@Kyle Mistele](https://portswigger.net/web-security/cross-site-scripting)
+
+
