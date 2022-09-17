@@ -40,5 +40,16 @@ An attacker could exploit this by constructing a URL like this:
 When the user loads the page, the URL will be templated into the page, the script tags will be interpreted as HTML, and the malicious script will execute. PortSwigger has a great [article!]( https://portswigger.net/web-security/cross-site-scripting/reflected) on this as well.
 
 
+### Stored XSS
 
+Stored XSS occurs when user-created data is stored in a database or other persistent storage and is then loaded into a page. Common examples of types of applications that do this include forums, comment plugins, and similar applications. Stored XSS is particularly dangerous when the stored content is displayed to many or all users of the application, because then one user can compromise the site for any user that visits it, without requiring that they click on a specific link.
+
+For example, suppose that a forum thread’s posts are stored in a database and that they’re loaded whenever someone visits the thread and displayed. A malicious user could leave a comment that contains malicious JavaScript between <script></script> tags in their post, and then the script would execute in the browser of any user that visits the page.
+
+For example, their post in the threat might look something like this:
+
+    This is some text replying to the thread <script>alert('XSS');</script>
+    
+    
+    This is some text replying to the thread <script>alert('XSS');</script>
     
