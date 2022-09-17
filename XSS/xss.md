@@ -37,7 +37,7 @@ An attacker could exploit this by constructing a URL like this:
 
     https://example.com//route/that/will/404/<script>alert('XSS!');
     
-When the user loads the page, the URL will be templated into the page, the script tags will be interpreted as HTML, and the malicious script will execute. PortSwigger has a great article[("https://portswigger.net/web-security/cross-site-scripting/reflected")] on this as well.
+When the user loads the page, the URL will be templated into the page, the script tags will be interpreted as HTML, and the malicious script will execute. PortSwigger has a great article[! https://portswigger.net/web-security/cross-site-scripting/reflected] on this as well.
 
 
 
