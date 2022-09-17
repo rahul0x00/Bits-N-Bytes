@@ -1,0 +1,22 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "rahul0x00",
+      "name": "Rahul Kumar",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/33719912?v=4",
+      "profile": "https://github.com/rahul0x00",
+      "contributions": [
+        "contrib"
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "BugBountyClass",
+  "projectOwner": "rahul0x00",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
