@@ -1,12 +1,10 @@
 # BugBountyClass
 
 [![All Contributors](https://img.shields.io/badge/all--contributors-2-%23EEA47FFF?style=flat)](#contributors-)
-https://github.com/rahul0x00/BugBountyClass#contributors-
 
 Tutorial about web application attacks and Fundamental principle of How the attack works, Exploitation and How to defend from those attacks.
 
 ## GitBook Link :- https://rahul0x00.gitbook.io/
-
 <!-- ## GitHub Repo Link :- https://github.com/rahul0x00/BugBountyClass
 
  **To Read the book go to gitbook link and if you want to Contribute then make a Pull Request in Github!.**
