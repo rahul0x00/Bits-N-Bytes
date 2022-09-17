@@ -11,8 +11,7 @@ There are primarily 3 types of XSS:
 
 This type of XSS occurs when user input is manipulated in an unsafe way in the DOM (Document Object Map) by JavaScript. For example, this can occur if you were to read a value from a form, and then use JavaScript to write it back out to the DOM. If an attacker can control the input to that form, then they can control the script that will be executed. Common sources of DOM-based XSS include the eval() function and the innerHTML attribute, and attacks are commonly executed through the URL. PortSwigger has a great article on this. I've included an example below:
 
-  #\const username = document.getElementById('username_input');
-const username_box = document.getElementById('username_box');
-user_name_box.innerHTML = username;
-#\
+    const username = document.getElementById('username_input');
+    const username_box = document.getElementById('username_box');
+    user_name_box.innerHTML = username;
 
