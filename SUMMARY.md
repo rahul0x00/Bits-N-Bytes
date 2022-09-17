@@ -8,3 +8,6 @@
 
 ## Open Redirects
 * [Open Redirects](OpenRedirects/Open_Redirects.md)
+
+## ClickJacking
+* [ClickJakcing](ClickJacking/ClickJacking.md)
