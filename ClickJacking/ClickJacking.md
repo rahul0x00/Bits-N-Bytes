@@ -18,10 +18,12 @@ within another page.
     
 #### Scenario:   
             
-For example, imagine an attacker who builds a web site that has a button on it that says “click here for a free iPod”. However, on top of that web page, the attacker has loaded an iframe with your mail account, and lined up exactly the “delete all messages” button directly on top of the “free iPod” button. The victim tries to click on the “free iPod” button but instead actually clicked on the invisible “delete all messages” button. In essence, the attacker has “hijacked” the user’s click, hence the name “Clickjacking”.
+For example, imagine an attacker who builds a web site that has a button on it that says “click here for a free iPod”.
+However, on top of that web page, the attacker has loaded an iframe with your mail account, and lined up
+exactly the “delete all messages” button directly on top of the “free iPod” button. The victim tries to 
+click on the “free iPod” button but instead actually clicked on the invisible “delete all messages” button.
+In essence, the attacker has “hijacked” the user’s click, hence the name “Clickjacking”.
             
-
-One of the most notorious examples of Clickjacking was an attack against the Adobe Flash plugin settings page. By loading this page into an invisible iframe, an attacker could trick a user into altering the security settings of Flash, giving permission for any Flash animation to utilize the computer’s microphone and camera.
 
 Clickjacking also made the news in the form of a Twitter worm. This clickjacking attack convinced users to click on a button which caused them to re-tweet the location of the malicious page, and propagated massively.            
 
