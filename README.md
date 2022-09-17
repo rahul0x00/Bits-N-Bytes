@@ -1,6 +1,6 @@
 # BugBountyClass
 
-[![All Contributors](https://img.shields.io/badge/all--contributors-2-%23EEA47FFF?style=flat)](../#contributors-)
+[![All Contributors](https://img.shields.io/badge/all--contributors-2-%23EEA47FFF?style=flat)](#contributors-)
 https://github.com/rahul0x00/BugBountyClass#contributors-
 
 Tutorial about web application attacks and Fundamental principle of How the attack works, Exploitation and How to defend from those attacks.
