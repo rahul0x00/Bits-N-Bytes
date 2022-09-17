@@ -1,9 +1,3 @@
----
-description: >-
-  Tutorial about web application attacks and Fundamental principle of How the
-  attack works, Exploitation and How to defend from those attacks.
----
-
 # BugBountyClass
 
 [![All Contributors](https://img.shields.io/badge/all--contributors-1-%23EEA47FFF?style=flat)](./#contributors-)
