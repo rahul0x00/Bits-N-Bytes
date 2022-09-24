@@ -1,16 +1,14 @@
 # BugBountyClass
 
-[![All Contributors](https://img.shields.io/badge/all--contributors-1-%23EEA47FFF?style=flat)](./#contributors-)
+[![All Contributors](https://img.shields.io/badge/all--contributors-2-%23EEA47FFF?style=flat)](#contributors-)
 
 Tutorial about web application attacks and Fundamental principle of How the attack works, Exploitation and How to defend from those attacks.
 
 ## GitBook Link :- https://rahul0x00.gitbook.io/
-
-<!-- ## GitHub Repo Link :- https://github.com/rahul0x00/BugBountyClass
+## GitHub Repo Link :- https://github.com/rahul0x00/BugBountyClass
 
  **To Read the book go to gitbook link and if you want to Contribute then make a Pull Request in Github!.**
 
--->
 **Note: You can help this project to make the list complete by contributing. If you want to contribute, then make a Pull Request and do mention you social media handle**
 
 \*\*If you want to know about the updates,then you can follow me on twitter [https://twitter.com/0xdarksaber](https://twitter.com/0xdarksaber) \*\*
@@ -18,6 +16,9 @@ Tutorial about web application attacks and Fundamental principle of How the atta
 [If You Want To Support this Project Or Me, You Can Buy Me a Coffee](https://www.buymeacoffee.com/rahul0x00)
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom\_images/orange\_img.png)](https://www.buymeacoffee.com/rahul0x00)
+
+[![Paypal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png)](https://paypal.me/rahul0x00)
+
 
 
 ## Contributors ✨
