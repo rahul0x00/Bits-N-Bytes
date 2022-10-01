@@ -33,11 +33,6 @@ Thanks to these astonishing Hackers :
       <td align="center"><a href="https://github.com/darks4ber"><img src="https://user-images.githubusercontent.com/104289350/193394441-ecb02d11-87fc-4f94-ad27-bbf8e93bf8e4.jpeg" width="200px;" alt=""/><br /><sub><b>DarkSaber</b></sub></a><br /><a href="#websecurity-darks4ber" title="Contriubtors"></a></td>
       <td align="center"><a href="https://github.com/itz-arnav"><img src="https://avatars.githubusercontent.com/u/64909912?v=4" width="200px;" alt=""/><br /><sub><b>Arnav</b></sub></a><br /><a href="#web-security-itz-arnav" title="Contributor"></a></td>      
       
-    </tr>
   </tbody>
 </table> 
 
-<!-- <p><a href="https://github.com/rahul0x00"><img src="https://user-images.githubusercontent.com/104289350/190708729-a30bc55e-0fe5-4bd0-a4f7-eda47765a952.jpg" width=200; alt=""><br><strong>Rahul Kumar</strong></a><br><a href="./#contrib-rahul0x00"></a></p> 
-<p><a href="https://github.com/darks4ber"><img src="https://user-images.githubusercontent.com/104289350/193394441-ecb02d11-87fc-4f94-ad27-bbf8e93bf8e4.jpeg " width=200;  alt=""><br><strong>DarkSaber</strong></a><br><a href="./#contrib-darks4ber"></a></p> 
-
--->
