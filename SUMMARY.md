@@ -6,11 +6,11 @@
 * [About the author](author/about-the-author.md)
 
 
-# Web Security 
+## Web Security 
 * [Cross Site Scripting](web-security/XSS/xss.md)
 * [Open Redirects](web-security/OpenRedirects/Open_Redirects.md)
 * [ClickJakcing](web-security/ClickJacking/ClickJacking.md)
 
 
-# Exploit Development
+## Exploit Development
 * [Exploit Development](Exploit-Development/Exploit-Development.md)
