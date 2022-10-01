@@ -2,14 +2,15 @@
 
 [![All Contributors](https://img.shields.io/badge/all--contributors-2-%23EEA47FFF?style=flat)](#contributors-)
 
-Tutorial about web application attacks and Fundamental principle of How the attack works, Exploitation and How to defend from those attacks.
+##### Tutorial about hacking tricks and tehcnique that I have learnt from the Community,Reasearch Papers,books,articles,CTF's or whateveer.
+
+For examaple this book contains methodoly,how to write exploit,assembly 101,etc.
 
 ## GitBook Link :- https://rahul0x00.gitbook.io/
 ## GitHub Repo Link :- https://github.com/rahul0x00/BugBountyClass
 
  **To Read the book go to gitbook link and if you want to Contribute then make a Pull Request in Github!.**
-
-**Note: You can help this project to make the list complete by contributing. If you want to contribute, then make a Pull Request and do mention you social media handle**
+ 
 
 \*\*If you want to know about the updates,then you can follow me on twitter [https://twitter.com/0xdarksaber](https://twitter.com/0xdarksaber) \*\*
 
