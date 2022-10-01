@@ -1,4 +1,4 @@
-# BugBountyClass
+# Bits N’ Bytes
 
 [![All Contributors](https://img.shields.io/badge/all--contributors-2-%23EEA47FFF?style=flat)](#contributors-)
 
