@@ -22,7 +22,7 @@ If you want to contribute or if you have **suggestion**, please, send a **Pull R
 
 ### BIO
 
-Just check my **linkedin**: [https://www.twitter.com/0xdarksaber](https://www.twitter.com/0xdarksaber/)
+Just check my **twitter**: [https://www.twitter.com/0xdarksaber](https://www.twitter.com/0xdarksaber/)
 
 If you find this project then, please consider **supporting it!**
 
