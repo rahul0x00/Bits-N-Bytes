@@ -2,7 +2,7 @@
 
 <details>
 
-<summary><strong>Support this Project or me!</strong></summary>
+<summary><strong>Support this Project or me!</strong></summary><br>
   
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom\_images/orange\_img.png)](https://www.buymeacoffee.com/rahul0x00)
