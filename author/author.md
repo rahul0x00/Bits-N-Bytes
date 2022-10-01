@@ -4,8 +4,11 @@
 
 <summary><strong>Support this Project or me!</strong></summary><br>
   
+ <p align="center">
 
-[![Buy Me A Coffee]("https://www.buymeacoffee.com/assets/img/custom\_images/orange\_img.png" align="center")](https://www.buymeacoffee.com/rahul0x00)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Paypal]("https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png" align="center")](https://paypal.me/rahul0x00)
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom\_images/orange\_img.png)](https://www.buymeacoffee.com/rahul0x00)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Paypal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png)](https://paypal.me/rahul0x00)
+  
+  </p>
 
 
 
