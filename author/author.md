@@ -6,7 +6,6 @@
   
 
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom\_images/orange\_img.png)](https://www.buymeacoffee.com/rahul0x00)
-
 [![Paypal](https://www.paypalobjects.com/webstatic/mktg/Logo/pp-logo-150px.png)](https://paypal.me/rahul0x00)
 
 
