@@ -26,6 +26,5 @@ Tutorial about web application attacks and Fundamental principle of How the atta
 Thanks to these astonishing Hackers :
 
 | <p><a href="https://github.com/rahul0x00"><img src="https://user-images.githubusercontent.com/104289350/190708729-a30bc55e-0fe5-4bd0-a4f7-eda47765a952.jpg" alt=""><br><strong>Rahul Kumar</strong></a><br><a href="./#contrib-rahul0x00"></a></p> |
-| <p><a href="https://github.com/darks4ber"><img src="https://user-images.githubusercontent.com/104289350/190708729-a30bc55e-0fe5-4bd0-a4f7-eda47765a952" alt=""><br><strong>DarkSaber</strong></a><br><a href="./#contrib-darks4ber"></a></p> |
+| <p><a href="https://github.com/darks4ber"><img src="https://user-images.githubusercontent.com/104289350/193394441-ecb02d11-87fc-4f94-ad27-bbf8e93bf8e4.jpeg" alt=""><br><strong>DarkSaber</strong></a><br><a href="./#contrib-darks4ber"></a></p> |
 
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
