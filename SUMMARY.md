@@ -3,7 +3,7 @@
 ## Welcome!!
 
 * [Bits-N-Bytes](README.md)
-* [About the author](author/about-the-author.md)
+* [About the author](welcome/about-the-author.md)
 
 
 ## Web Security 
