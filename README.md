@@ -6,7 +6,7 @@
 
 For examaple this book contains methodologies,how to write exploit,assembly 101,etc.
 
-## GitBook Link :- https://rahul0x00.gitbook.io/
+## GitBook Link :- https://bitsnbytes.gitbook.io/
 ## GitHub Repo Link :- https://github.com/rahul0x00/Bits-N-Bytes/
 
  **To Read the book go to gitbook link and if you want to Contribute then make a Pull Request in Github!.**
