@@ -18,7 +18,7 @@
 
 This is **Rahul**.
 
-I'm currently a 2nd year college student and I'm doing my Bachelor's degree in CSE.
+I'm currently a 2nd year college student pursuing my Bachelor's degree in Computer Science Studies with Specialization in Cyber Security.
 
 If you want to contribute or if you have **suggestion**, please, send a **Pull Request** to this Project!
 
