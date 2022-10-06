@@ -12,28 +12,28 @@
       "profile": "https://github.com/rahul0x00",
       "contributions": [
         "contrib"
+        ]
         
-        
-
-       "login": "darks4ber",
-
-       "name": "DarkSaber",
-
-
+    },
+     {
+      "login": "darks4ber",
+      "name": "DarkSaber",
+      "avatar_url": "",
       "profile": "https://github.com/darks4ber",
-
       "contributions": [
-
-        "contrib"
-        
-        
-        "login": "mr DJ"
-        "name": "Samuel Jonathan"
-        
-        "profiile": "https://github.com/Mr-DJ"
-        
-        "contributors: [
-          "contrib"
+        "tutorial"
+      ]
+    },
+     
+    {
+      "login": "Mr-DJ",
+      "name": "Samuel Jonathan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28898632?v=4",
+      "profile": "https://github.com/Mr-DJ",
+      "contributions": [
+        "websecurity-ssrf"
+      ]
+    },
           
   ],
   "contributorsPerLine": 7,
@@ -43,3 +43,6 @@
   "repoHost": "https://github.com",
   "skipCi": true
 }
+
+
+
