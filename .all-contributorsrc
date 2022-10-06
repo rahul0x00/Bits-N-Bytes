@@ -11,7 +11,7 @@
       "avatar_url": "https://user-images.githubusercontent.com/104289350/190708729-a30bc55e-0fe5-4bd0-a4f7-eda47765a952.jpg",
       "profile": "https://github.com/rahul0x00",
       "contributions": [
-        "contrib"
+        "tutorial"
         ]
         
     },
@@ -31,13 +31,13 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/28898632?v=4",
       "profile": "https://github.com/Mr-DJ",
       "contributions": [
-        "websecurity-ssrf"
+        "tutorial"
       ]
-    },
+    }
           
-  ]
+  ],
   "contributorsPerLine": 7,
-  "projectName": "BugBountyClass",
+  "projectName": "Bits N' Bytes",
   "projectOwner": "rahul0x00",
   "repoType": "github",
   "repoHost": "https://github.com",
