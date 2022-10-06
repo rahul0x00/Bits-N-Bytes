@@ -1,7 +1,7 @@
 # Bits N’ Bytes
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all--contributors-3-%23EEA47FFF?style=flat)](#contributors)
+[![All Contributors](https://img.shields.io/badge/all--contributors-4-%23EEA47FFF?style=flat)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ### Tutorial about hacking tricks and technique that I have learnt from the Community,Research Papers,books,articles,CTF's or whateveer.
