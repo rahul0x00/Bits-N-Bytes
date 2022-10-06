@@ -1,6 +1,11 @@
 # Bits N’ Bytes
 
-[![All Contributors](https://img.shields.io/badge/all--contributors-3-%23EEA47FFF?style=flat)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all--contributors-3-%23EEA47FFF?style=flat)](#contributors)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
+
+[![All Contributors]()](#contributors-)
 
 ### Tutorial about hacking tricks and technique that I have learnt from the Community,Research Papers,books,articles,CTF's or whateveer.
 
@@ -26,6 +31,11 @@ For examaple this book contains methodologies,how to write exploit,assembly 101,
 
 Thanks to these astonishing Hackers :
 
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
 <table>
   <tbody>
     <tr>
@@ -38,3 +48,8 @@ Thanks to these astonishing Hackers :
   </tbody>
 </table> 
 
+    
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->    
