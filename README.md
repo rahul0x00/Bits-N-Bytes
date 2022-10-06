@@ -40,7 +40,7 @@ Thanks to these astonishing Hackers :
       <td align="center"><a href="https://github.com/darks4ber"><img src="https://user-images.githubusercontent.com/104289350/193394441-ecb02d11-87fc-4f94-ad27-bbf8e93bf8e4.jpeg" width="200px;" alt=""/><br /><sub><b>DarkSaber</b></sub></a><br /><a href="#websecurity-darks4ber" title="Contributors"></a></td>
 <!--      <td align="center"><a href="https://github.com/itz-arnav"><img src="https://avatars.githubusercontent.com/u/64909912?v=4" width="200px;" alt=""/><br /><sub><b>Arnav</b></sub></a><br /><a href="#web-security-itz-arnav" title="Contributor"></a></td>      -->
    
-   <td align="center"><a href="https://github.com/Mr-DJ"><img src="https://avatars.githubusercontent.com/u/28898632?v=4" width=200px; alt="Mr-DJ"/> <br/><sub><b>Mr DJ</b></sub></a><br /a><a href="websecurity-mr-DJ" title="Contributors
+   <td align="center"><a href="https://github.com/Mr-DJ"><img src="https://avatars.githubusercontent.com/u/28898632?v=4" width=200px; alt="Mr-DJ"/> <br/><sub><b>Samuel Jonathan</b></sub></a><br /a><a href="websecurity-mr-DJ" title="Contributors
    </tr>
   </tbody>
 </table> 
