@@ -4,7 +4,7 @@
 [![All Contributors](https://img.shields.io/badge/all--contributors-4-%23EEA47FFF?style=flat)](#contributors)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-### Tutorial about hacking tricks and technique that I have learnt from the Community,Research Papers,books,articles,CTF's or whateveer.
+### Tutorial about hacking tricks and technique,exploit development,assembly101,etc that I have learnt from the Self,Community,Books,Research Papers,articles,CTF's,etc.
 
 For examaple this book contains methodologies,how to write exploit,assembly 101,etc.
 
