@@ -7,12 +7,12 @@
 
 
 ## Web Security 
-* [Cross Site Scripting](web-security/XSS/xss.md)
-* [Open Redirects](web-security/OpenRedirects/Open_Redirects.md)
-* [ClickJacking](web-security/ClickJacking/ClickJacking.md)
-* [Sql Injection](web-security/SQLInjection/sql-injection.md)
-* [ClickJacking](web-security/ClickJacking/ClickJacking.md)
-* [Account TakeOver](web-security/AccountTakeover/ATO.md)
+* [Cross Site Scripting](web-security/XSS/readme.md)
+* [Open Redirects](web-security/OpenRedirects/readme.md)
+* [ClickJacking](web-security/ClickJacking/readme.md)
+* [Sql Injection](web-security/SQLInjection/readme.md)
+* [ClickJacking](web-security/ClickJacking/readme.md)
+* [Account TakeOver](web-security/AccountTakeover/readme.md)
 
 
 
