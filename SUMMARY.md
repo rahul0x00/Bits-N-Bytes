@@ -18,3 +18,8 @@
 
 ## Exploit Development
 * [Exploit Development](Exploit-Development/exploit-development.md)
+
+## Malware Analysis
+
+* [Malware Types](Malware-Analysis/malware.md)
+* [Some Analysis Terminologies](Malware-Analysis/malware.md)
